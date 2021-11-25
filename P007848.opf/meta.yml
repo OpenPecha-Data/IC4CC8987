@@ -1,5 +1,7 @@
 id: P007848
 initial_creation_type: ocr
+created_at: 21/03/2020
+last_modified_at: 25/11/2021
 source_metadata:
   id: bdr:W3CN6525
   title: མཆིམས་ཀྱི་རུས་རྒྱུད་སྐོར་བརྗོད་པ།
@@ -11,10 +13,3 @@ source_metadata:
       volume_number: 1
       total_pages: 214
       base_file: v001.txt
-ebook_metadata:
-  title: མཆིམས་ཀྱི་རུས་རྒྱུད་སྐོར་བརྗོད་པ།
-  author: ''
-  sku: P007848
-  cover: cover.jpg
-  layers:
-  - pagination
